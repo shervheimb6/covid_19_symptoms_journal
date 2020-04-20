@@ -1,5 +1,5 @@
 
-let element = document.getElementById("cough-two");
+/*let element = document.getElementById("cough-two");
 
 function turnButtonRed (){
   element.style.backgroundColor = "red";
@@ -8,4 +8,4 @@ function turnButtonRed (){
   
 }
 
-element.onclick = turnButtonRed;
+element.onclick = turnButtonRed;*/

@@ -1,5 +1,4 @@
 
-
 let element = document.getElementById("cough-one");
 
 function turnButtonRed (){
@@ -65,46 +64,46 @@ element4.onclick = turnButtonRed4;
 
 ///////////////////////////////////////////////////////////////////////
 
+let element5 = document.getElementById("cough-six");
+
+function turnButtonRed5 (){
+  element5.style.backgroundColor = "red";
+  element5.style.color = "white";
+  element5.innerHTML = "X"; 
+  
+}
+
+element5.onclick = turnButtonRed5;
+
+///////////////////////////////////////////////////////////////////////
+
+let element6 = document.getElementById("cough-seven");
+
+function turnButtonRed6 (){
+  element6.style.backgroundColor = "red";
+  element6.style.color = "white";
+  element6.innerHTML = "X"; 
+  
+}
+
+element6.onclick = turnButtonRed6;
+
+///////////////////////////////////////////////////////////////////////
+
+let element7 = document.getElementById('cough-eight');
+
+function turnButtonRed7 () {
+  element7.style.backgroundColor = "red";
+  element7.style.color = "white";
+  element7.innerHTML = "X"
+
+}
+
+element7.onclick = turnButtonRed7;
+
+///////////////////////////////////////////////////////////////////////
+
 /*let element1 = document.getElementById("cough-two");
-
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
-  
-}
-
-element1.onclick = turnButtonRed1;
-
-///////////////////////////////////////////////////////////////////////
-
-let element1 = document.getElementById("cough-two");
-
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
-  
-}
-
-element1.onclick = turnButtonRed1;
-
-///////////////////////////////////////////////////////////////////////
-
-let element1 = document.getElementById("cough-two");
-
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
-  
-}
-
-element1.onclick = turnButtonRed1;
-
-///////////////////////////////////////////////////////////////////////
-
-let element1 = document.getElementById("cough-two");
 
 function turnButtonRed1 (){
   element1.style.backgroundColor = "red";
