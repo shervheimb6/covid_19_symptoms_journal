@@ -1,6 +1,7 @@
 
 let element = document.getElementById("cough-one");
 
+/*for (let i=0; i< )*/
 function turnButtonRed (){
   element.style.backgroundColor = "red";
   element.style.color = "white";
@@ -103,106 +104,405 @@ element7.onclick = turnButtonRed7;
 
 ///////////////////////////////////////////////////////////////////////
 
-/*let element1 = document.getElementById("cough-two");
+let element8 = document.getElementById("cough-nine");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed8 (){
+  element8.style.backgroundColor = "red";
+  element8.style.color = "white";
+  element8.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element8.onclick = turnButtonRed8;
+
+////////////////////////////////////////////////////////////////////////
+
+let element9 = document.getElementById("cough-ten");
+
+function turnButtonRed9 (){
+  element9.style.backgroundColor = "red";
+  element9.style.color = "white";
+  element9.innerHTML = "X"; 
+  
+}
+
+element9.onclick = turnButtonRed9;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element10 = document.getElementById("cough-eleven");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed10 (){
+  element10.style.backgroundColor = "red";
+  element10.style.color = "white";
+  element10.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element10.onclick = turnButtonRed10;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element11 = document.getElementById("cough-twelve");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed11 (){
+  element11.style.backgroundColor = "red";
+  element11.style.color = "white";
+  element11.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element11.onclick = turnButtonRed11;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element12 = document.getElementById("cough-thirteen");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed12 (){
+  element12.style.backgroundColor = "red";
+  element12.style.color = "white";
+  element12.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element12.onclick = turnButtonRed12;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element13 = document.getElementById("cough-fourteen");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed13 (){
+  element13.style.backgroundColor = "red";
+  element13.style.color = "white";
+  element13.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element13.onclick = turnButtonRed13;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element14 = document.getElementById("nose-one");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed14 (){
+  element14.style.backgroundColor = "red";
+  element14.style.color = "white";
+  element14.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element14.onclick = turnButtonRed14;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element15 = document.getElementById("nose-two");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////*/
+
+let element16 = document.getElementById("nose-three");
+
+function turnButtonRed16 (){
+  element16.style.backgroundColor = "red";
+  element16.style.color = "white";
+  element16.innerHTML = "X"; 
+  
+}
+
+element16.onclick = turnButtonRed16;
+
+///////////////////////////////////////////////////////////////////////*/
+
+let element17 = document.getElementById("nose-four");
+
+function turnButtonRed17 (){
+  element17.style.backgroundColor = "red";
+  element17.style.color = "white";
+  element17.innerHTML = "X"; 
+  
+}
+
+element17.onclick = turnButtonRed17;
+
+///////////////////////////////////////////////////////////////////////*/
+
+let element18 = document.getElementById("nose-five");
+
+function turnButtonRed18 (){
+  element18.style.backgroundColor = "red";
+  element18.style.color = "white";
+  element18.innerHTML = "X"; 
+  
+}
+
+element18.onclick = turnButtonRed18;
 
 ///////////////////////////////////////////////////////////////////////
 
-let element1 = document.getElementById("cough-two");
+let element19 = document.getElementById("nose-six");
 
-function turnButtonRed1 (){
-  element1.style.backgroundColor = "red";
-  element1.style.color = "white";
-  element1.innerHTML = "X"; 
+function turnButtonRed19 (){
+  element19.style.backgroundColor = "red";
+  element19.style.color = "white";
+  element19.innerHTML = "X"; 
   
 }
 
-element1.onclick = turnButtonRed1;
+element19.onclick = turnButtonRed19;
+
+///////////////////////////////////////////////////////////////////////
+
+let element20 = document.getElementById("nose-seven");
+
+function turnButtonRed20 (){
+  element20.style.backgroundColor = "red";
+  element20.style.color = "white";
+  element20.innerHTML = "X"; 
+  
+}
+
+element20.onclick = turnButtonRed20;
+
+///////////////////////////////////////////////////////////////////////
+
+let element21 = document.getElementById("nose-eight");
+
+function turnButtonRed21 (){
+  element21.style.backgroundColor = "red";
+  element21.style.color = "white";
+  element21.innerHTML = "X"; 
+  
+}
+
+element21.onclick = turnButtonRed21;
+
+///////////////////////////////////////////////////////////////////////
+
+/*let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
+
+///////////////////////////////////////////////////////////////////////
+
+let element15 = document.getElementById("nose-two");
+
+function turnButtonRed15 (){
+  element15.style.backgroundColor = "red";
+  element15.style.color = "white";
+  element15.innerHTML = "X"; 
+  
+}
+
+element15.onclick = turnButtonRed15;
 
 ///////////////////////////////////////////////////////////////////////*/
